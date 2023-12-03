@@ -10,7 +10,7 @@ Explanation of how your chatbot integrates with Amazon Lex and Facebook.
 
 ### Screenshots
 
-![IMG-20231124-WA0037.jpg](url_to_screenshot_1)
+![[IMG-20231124-WA0037.jpg](https://github.com/TathagataSau/Reservation-Bot/blob/main/IMG-20231124-WA0034.jpg)](url_to_screenshot_1)
 *Caption for Screenshot 1*
 
 ![Screenshot 2](url_to_screenshot_2)
