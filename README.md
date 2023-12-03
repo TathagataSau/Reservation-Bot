@@ -39,15 +39,8 @@ Explanation of how your chatbot integrates with Amazon Lex and Facebook.
 
 Instructions on how to use your project or how to set up the chatbot.
 
-## Contributing
 
-If you'd like to contribute to this project, please follow these guidelines.
 
-## License
-
-This project is licensed under the [Your License] - see the [LICENSE.md](LICENSE.md) file for details.
-
----
 
 **Note: If you have a specific license, replace `[Your License]` with the actual license name or type (e.g., MIT, Apache 2.0, etc.). If you don't have a specific license, you might want to consider choosing one and providing details in a `LICENSE.md` file.**
 
